@@ -1,11 +1,11 @@
-# 🖥️ Twitter Layout Playground
+# 🖥️ Twitter Layout Clone
 
 <h1 align="center">
   <img src=".github/logo.png" width="200px" />
 </h1>
 
 ## 🔎️ Description
-A simple HTML + CSS application made to test Flexbox functionalities on Twitter's layout.
+A simple HTML5 + CSS3 application to clone Twitter's layout.
 
 ## 🚀️ Technologies
 
